@@ -1,0 +1,5 @@
+com\Examen1\AGOH\AgohApplication.class
+com\Examen1\AGOH\Controllers\ReservaController.class
+com\Examen1\AGOH\Service\ReservaService.class
+com\Examen1\AGOH\Repository\ReservaRepository.class
+com\Examen1\AGOH\Models\Reserva.class
